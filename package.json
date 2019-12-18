@@ -1,0 +1,33 @@
+{
+  "name": "@totalpave/country",
+  "version": "1.0.0",
+  "description": "List of countries",
+  "main": "lib/api.js",
+  "scripts": {
+    "build": "npm run-script lint && tsc",
+    "lint": "node --max_old_space_size=6144 ./node_modules/eslint/bin/eslint.js --ext .ts '?(src|spec)/**/*.ts' --cache",
+    "prepublishOnly": "npm run build",
+    "test": "npm run lint",
+    "docs": "typedoc --options typedoc.json"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/totalpave/country.git"
+  },
+  "author": "norman.breau@totalpave.com",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/totalpave/country/issues"
+  },
+  "homepage": "https://github.com/totalpave/country#readme",
+  "devDependencies": {
+    "@totalpave/eslint-plugin": "2.3.2",
+    "@typescript-eslint/eslint-plugin": "2.12.0",
+    "@typescript-eslint/parser": "2.12.0",
+    "eslint": "6.7.2",
+    "typescript": "3.7.3"
+  },
+  "dependencies": {
+    "@types/node": "12.12.21"
+  }
+}
