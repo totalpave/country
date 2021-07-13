@@ -1,6 +1,6 @@
-[@totalpave/country - v1.0.3](README.md) / Exports
+[@totalpave/country - v1.1.1](README.md) / Exports
 
-# @totalpave/country - v1.0.3
+# @totalpave/country - v1.1.1
 
 ## Table of contents
 

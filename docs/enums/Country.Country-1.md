@@ -1,4 +1,4 @@
-[@totalpave/country - v1.0.3](../README.md) / [Exports](../modules.md) / [Country](../modules/Country.md) / Country
+[@totalpave/country - v1.1.1](../README.md) / [Exports](../modules.md) / [Country](../modules/Country.md) / Country
 
 # Enumeration: Country
 
@@ -255,7 +255,7 @@
 
 #### Defined in
 
-[Country.ts:3](https://github.com/totalpave/country/blob/21d1403/src/Country.ts#L3)
+[Country.ts:3](https://github.com/totalpave/country/blob/17d287f/src/Country.ts#L3)
 
 ___
 
@@ -265,7 +265,7 @@ ___
 
 #### Defined in
 
-[Country.ts:4](https://github.com/totalpave/country/blob/21d1403/src/Country.ts#L4)
+[Country.ts:4](https://github.com/totalpave/country/blob/17d287f/src/Country.ts#L4)
 
 ___
 
@@ -275,7 +275,7 @@ ___
 
 #### Defined in
 
-[Country.ts:5](https://github.com/totalpave/country/blob/21d1403/src/Country.ts#L5)
+[Country.ts:5](https://github.com/totalpave/country/blob/17d287f/src/Country.ts#L5)
 
 ___
 
@@ -285,7 +285,7 @@ ___
 
 #### Defined in
 
-[Country.ts:6](https://github.com/totalpave/country/blob/21d1403/src/Country.ts#L6)
+[Country.ts:6](https://github.com/totalpave/country/blob/17d287f/src/Country.ts#L6)
 
 ___
 
@@ -295,7 +295,7 @@ ___
 
 #### Defined in
 
-[Country.ts:7](https://github.com/totalpave/country/blob/21d1403/src/Country.ts#L7)
+[Country.ts:7](https://github.com/totalpave/country/blob/17d287f/src/Country.ts#L7)
 
 ___
 
@@ -305,7 +305,7 @@ ___
 
 #### Defined in
 
-[Country.ts:8](https://github.com/totalpave/country/blob/21d1403/src/Country.ts#L8)
+[Country.ts:8](https://github.com/totalpave/country/blob/17d287f/src/Country.ts#L8)
 
 ___
 
@@ -315,7 +315,7 @@ ___
 
 #### Defined in
 
-[Country.ts:9](https://github.com/totalpave/country/blob/21d1403/src/Country.ts#L9)
+[Country.ts:9](https://github.com/totalpave/country/blob/17d287f/src/Country.ts#L9)
 
 ___
 
@@ -325,7 +325,7 @@ ___
 
 #### Defined in
 
-[Country.ts:10](https://github.com/totalpave/country/blob/21d1403/src/Country.ts#L10)
+[Country.ts:10](https://github.com/totalpave/country/blob/17d287f/src/Country.ts#L10)
 
 ___
 
@@ -335,7 +335,7 @@ ___
 
 #### Defined in
 
-[Country.ts:11](https://github.com/totalpave/country/blob/21d1403/src/Country.ts#L11)
+[Country.ts:11](https://github.com/totalpave/country/blob/17d287f/src/Country.ts#L11)
 
 ___
 
@@ -345,7 +345,7 @@ ___
 
 #### Defined in
 
-[Country.ts:12](https://github.com/totalpave/country/blob/21d1403/src/Country.ts#L12)
+[Country.ts:12](https://github.com/totalpave/country/blob/17d287f/src/Country.ts#L12)
 
 ___
 
@@ -355,7 +355,7 @@ ___
 
 #### Defined in
 
-[Country.ts:13](https://github.com/totalpave/country/blob/21d1403/src/Country.ts#L13)
+[Country.ts:13](https://github.com/totalpave/country/blob/17d287f/src/Country.ts#L13)
 
 ___
 
@@ -365,7 +365,7 @@ ___
 
 #### Defined in
 
-[Country.ts:14](https://github.com/totalpave/country/blob/21d1403/src/Country.ts#L14)
+[Country.ts:14](https://github.com/totalpave/country/blob/17d287f/src/Country.ts#L14)
 
 ___
 
@@ -375,7 +375,7 @@ ___
 
 #### Defined in
 
-[Country.ts:15](https://github.com/totalpave/country/blob/21d1403/src/Country.ts#L15)
+[Country.ts:15](https://github.com/totalpave/country/blob/17d287f/src/Country.ts#L15)
 
 ___
 
@@ -385,7 +385,7 @@ ___
 
 #### Defined in
 
-[Country.ts:16](https://github.com/totalpave/country/blob/21d1403/src/Country.ts#L16)
+[Country.ts:16](https://github.com/totalpave/country/blob/17d287f/src/Country.ts#L16)
 
 ___
 
@@ -395,7 +395,7 @@ ___
 
 #### Defined in
 
-[Country.ts:17](https://github.com/totalpave/country/blob/21d1403/src/Country.ts#L17)
+[Country.ts:17](https://github.com/totalpave/country/blob/17d287f/src/Country.ts#L17)
 
 ___
 
@@ -405,7 +405,7 @@ ___
 
 #### Defined in
 
-[Country.ts:18](https://github.com/totalpave/country/blob/21d1403/src/Country.ts#L18)
+[Country.ts:18](https://github.com/totalpave/country/blob/17d287f/src/Country.ts#L18)
 
 ___
 
@@ -415,7 +415,7 @@ ___
 
 #### Defined in
 
-[Country.ts:19](https://github.com/totalpave/country/blob/21d1403/src/Country.ts#L19)
+[Country.ts:19](https://github.com/totalpave/country/blob/17d287f/src/Country.ts#L19)
 
 ___
 
@@ -425,7 +425,7 @@ ___
 
 #### Defined in
 
-[Country.ts:20](https://github.com/totalpave/country/blob/21d1403/src/Country.ts#L20)
+[Country.ts:20](https://github.com/totalpave/country/blob/17d287f/src/Country.ts#L20)
 
 ___
 
@@ -435,7 +435,7 @@ ___
 
 #### Defined in
 
-[Country.ts:21](https://github.com/totalpave/country/blob/21d1403/src/Country.ts#L21)
+[Country.ts:21](https://github.com/totalpave/country/blob/17d287f/src/Country.ts#L21)
 
 ___
 
@@ -445,7 +445,7 @@ ___
 
 #### Defined in
 
-[Country.ts:22](https://github.com/totalpave/country/blob/21d1403/src/Country.ts#L22)
+[Country.ts:22](https://github.com/totalpave/country/blob/17d287f/src/Country.ts#L22)
 
 ___
 
@@ -455,7 +455,7 @@ ___
 
 #### Defined in
 
-[Country.ts:23](https://github.com/totalpave/country/blob/21d1403/src/Country.ts#L23)
+[Country.ts:23](https://github.com/totalpave/country/blob/17d287f/src/Country.ts#L23)
 
 ___
 
@@ -465,7 +465,7 @@ ___
 
 #### Defined in
 
-[Country.ts:24](https://github.com/totalpave/country/blob/21d1403/src/Country.ts#L24)
+[Country.ts:24](https://github.com/totalpave/country/blob/17d287f/src/Country.ts#L24)
 
 ___
 
@@ -475,7 +475,7 @@ ___
 
 #### Defined in
 
-[Country.ts:25](https://github.com/totalpave/country/blob/21d1403/src/Country.ts#L25)
+[Country.ts:25](https://github.com/totalpave/country/blob/17d287f/src/Country.ts#L25)
 
 ___
 
@@ -485,7 +485,7 @@ ___
 
 #### Defined in
 
-[Country.ts:26](https://github.com/totalpave/country/blob/21d1403/src/Country.ts#L26)
+[Country.ts:26](https://github.com/totalpave/country/blob/17d287f/src/Country.ts#L26)
 
 ___
 
@@ -495,7 +495,7 @@ ___
 
 #### Defined in
 
-[Country.ts:27](https://github.com/totalpave/country/blob/21d1403/src/Country.ts#L27)
+[Country.ts:27](https://github.com/totalpave/country/blob/17d287f/src/Country.ts#L27)
 
 ___
 
@@ -505,7 +505,7 @@ ___
 
 #### Defined in
 
-[Country.ts:28](https://github.com/totalpave/country/blob/21d1403/src/Country.ts#L28)
+[Country.ts:28](https://github.com/totalpave/country/blob/17d287f/src/Country.ts#L28)
 
 ___
 
@@ -515,7 +515,7 @@ ___
 
 #### Defined in
 
-[Country.ts:29](https://github.com/totalpave/country/blob/21d1403/src/Country.ts#L29)
+[Country.ts:29](https://github.com/totalpave/country/blob/17d287f/src/Country.ts#L29)
 
 ___
 
@@ -525,7 +525,7 @@ ___
 
 #### Defined in
 
-[Country.ts:30](https://github.com/totalpave/country/blob/21d1403/src/Country.ts#L30)
+[Country.ts:30](https://github.com/totalpave/country/blob/17d287f/src/Country.ts#L30)
 
 ___
 
@@ -535,7 +535,7 @@ ___
 
 #### Defined in
 
-[Country.ts:31](https://github.com/totalpave/country/blob/21d1403/src/Country.ts#L31)
+[Country.ts:31](https://github.com/totalpave/country/blob/17d287f/src/Country.ts#L31)
 
 ___
 
@@ -545,7 +545,7 @@ ___
 
 #### Defined in
 
-[Country.ts:32](https://github.com/totalpave/country/blob/21d1403/src/Country.ts#L32)
+[Country.ts:32](https://github.com/totalpave/country/blob/17d287f/src/Country.ts#L32)
 
 ___
 
@@ -555,7 +555,7 @@ ___
 
 #### Defined in
 
-[Country.ts:33](https://github.com/totalpave/country/blob/21d1403/src/Country.ts#L33)
+[Country.ts:33](https://github.com/totalpave/country/blob/17d287f/src/Country.ts#L33)
 
 ___
 
@@ -565,7 +565,7 @@ ___
 
 #### Defined in
 
-[Country.ts:34](https://github.com/totalpave/country/blob/21d1403/src/Country.ts#L34)
+[Country.ts:34](https://github.com/totalpave/country/blob/17d287f/src/Country.ts#L34)
 
 ___
 
@@ -575,7 +575,7 @@ ___
 
 #### Defined in
 
-[Country.ts:35](https://github.com/totalpave/country/blob/21d1403/src/Country.ts#L35)
+[Country.ts:35](https://github.com/totalpave/country/blob/17d287f/src/Country.ts#L35)
 
 ___
 
@@ -585,7 +585,7 @@ ___
 
 #### Defined in
 
-[Country.ts:36](https://github.com/totalpave/country/blob/21d1403/src/Country.ts#L36)
+[Country.ts:36](https://github.com/totalpave/country/blob/17d287f/src/Country.ts#L36)
 
 ___
 
@@ -595,7 +595,7 @@ ___
 
 #### Defined in
 
-[Country.ts:37](https://github.com/totalpave/country/blob/21d1403/src/Country.ts#L37)
+[Country.ts:37](https://github.com/totalpave/country/blob/17d287f/src/Country.ts#L37)
 
 ___
 
@@ -605,7 +605,7 @@ ___
 
 #### Defined in
 
-[Country.ts:41](https://github.com/totalpave/country/blob/21d1403/src/Country.ts#L41)
+[Country.ts:41](https://github.com/totalpave/country/blob/17d287f/src/Country.ts#L41)
 
 ___
 
@@ -615,7 +615,7 @@ ___
 
 #### Defined in
 
-[Country.ts:38](https://github.com/totalpave/country/blob/21d1403/src/Country.ts#L38)
+[Country.ts:38](https://github.com/totalpave/country/blob/17d287f/src/Country.ts#L38)
 
 ___
 
@@ -625,7 +625,7 @@ ___
 
 #### Defined in
 
-[Country.ts:39](https://github.com/totalpave/country/blob/21d1403/src/Country.ts#L39)
+[Country.ts:39](https://github.com/totalpave/country/blob/17d287f/src/Country.ts#L39)
 
 ___
 
@@ -635,7 +635,7 @@ ___
 
 #### Defined in
 
-[Country.ts:40](https://github.com/totalpave/country/blob/21d1403/src/Country.ts#L40)
+[Country.ts:40](https://github.com/totalpave/country/blob/17d287f/src/Country.ts#L40)
 
 ___
 
@@ -645,7 +645,7 @@ ___
 
 #### Defined in
 
-[Country.ts:42](https://github.com/totalpave/country/blob/21d1403/src/Country.ts#L42)
+[Country.ts:42](https://github.com/totalpave/country/blob/17d287f/src/Country.ts#L42)
 
 ___
 
@@ -655,7 +655,7 @@ ___
 
 #### Defined in
 
-[Country.ts:43](https://github.com/totalpave/country/blob/21d1403/src/Country.ts#L43)
+[Country.ts:43](https://github.com/totalpave/country/blob/17d287f/src/Country.ts#L43)
 
 ___
 
@@ -665,7 +665,7 @@ ___
 
 #### Defined in
 
-[Country.ts:44](https://github.com/totalpave/country/blob/21d1403/src/Country.ts#L44)
+[Country.ts:44](https://github.com/totalpave/country/blob/17d287f/src/Country.ts#L44)
 
 ___
 
@@ -675,7 +675,7 @@ ___
 
 #### Defined in
 
-[Country.ts:45](https://github.com/totalpave/country/blob/21d1403/src/Country.ts#L45)
+[Country.ts:45](https://github.com/totalpave/country/blob/17d287f/src/Country.ts#L45)
 
 ___
 
@@ -685,7 +685,7 @@ ___
 
 #### Defined in
 
-[Country.ts:46](https://github.com/totalpave/country/blob/21d1403/src/Country.ts#L46)
+[Country.ts:46](https://github.com/totalpave/country/blob/17d287f/src/Country.ts#L46)
 
 ___
 
@@ -695,7 +695,7 @@ ___
 
 #### Defined in
 
-[Country.ts:47](https://github.com/totalpave/country/blob/21d1403/src/Country.ts#L47)
+[Country.ts:47](https://github.com/totalpave/country/blob/17d287f/src/Country.ts#L47)
 
 ___
 
@@ -705,7 +705,7 @@ ___
 
 #### Defined in
 
-[Country.ts:48](https://github.com/totalpave/country/blob/21d1403/src/Country.ts#L48)
+[Country.ts:48](https://github.com/totalpave/country/blob/17d287f/src/Country.ts#L48)
 
 ___
 
@@ -715,7 +715,7 @@ ___
 
 #### Defined in
 
-[Country.ts:49](https://github.com/totalpave/country/blob/21d1403/src/Country.ts#L49)
+[Country.ts:49](https://github.com/totalpave/country/blob/17d287f/src/Country.ts#L49)
 
 ___
 
@@ -725,7 +725,7 @@ ___
 
 #### Defined in
 
-[Country.ts:50](https://github.com/totalpave/country/blob/21d1403/src/Country.ts#L50)
+[Country.ts:50](https://github.com/totalpave/country/blob/17d287f/src/Country.ts#L50)
 
 ___
 
@@ -735,7 +735,7 @@ ___
 
 #### Defined in
 
-[Country.ts:51](https://github.com/totalpave/country/blob/21d1403/src/Country.ts#L51)
+[Country.ts:51](https://github.com/totalpave/country/blob/17d287f/src/Country.ts#L51)
 
 ___
 
@@ -745,7 +745,7 @@ ___
 
 #### Defined in
 
-[Country.ts:52](https://github.com/totalpave/country/blob/21d1403/src/Country.ts#L52)
+[Country.ts:52](https://github.com/totalpave/country/blob/17d287f/src/Country.ts#L52)
 
 ___
 
@@ -755,7 +755,7 @@ ___
 
 #### Defined in
 
-[Country.ts:53](https://github.com/totalpave/country/blob/21d1403/src/Country.ts#L53)
+[Country.ts:53](https://github.com/totalpave/country/blob/17d287f/src/Country.ts#L53)
 
 ___
 
@@ -765,7 +765,7 @@ ___
 
 #### Defined in
 
-[Country.ts:54](https://github.com/totalpave/country/blob/21d1403/src/Country.ts#L54)
+[Country.ts:54](https://github.com/totalpave/country/blob/17d287f/src/Country.ts#L54)
 
 ___
 
@@ -775,7 +775,7 @@ ___
 
 #### Defined in
 
-[Country.ts:55](https://github.com/totalpave/country/blob/21d1403/src/Country.ts#L55)
+[Country.ts:55](https://github.com/totalpave/country/blob/17d287f/src/Country.ts#L55)
 
 ___
 
@@ -785,7 +785,7 @@ ___
 
 #### Defined in
 
-[Country.ts:56](https://github.com/totalpave/country/blob/21d1403/src/Country.ts#L56)
+[Country.ts:56](https://github.com/totalpave/country/blob/17d287f/src/Country.ts#L56)
 
 ___
 
@@ -795,7 +795,7 @@ ___
 
 #### Defined in
 
-[Country.ts:57](https://github.com/totalpave/country/blob/21d1403/src/Country.ts#L57)
+[Country.ts:57](https://github.com/totalpave/country/blob/17d287f/src/Country.ts#L57)
 
 ___
 
@@ -805,7 +805,7 @@ ___
 
 #### Defined in
 
-[Country.ts:58](https://github.com/totalpave/country/blob/21d1403/src/Country.ts#L58)
+[Country.ts:58](https://github.com/totalpave/country/blob/17d287f/src/Country.ts#L58)
 
 ___
 
@@ -815,7 +815,7 @@ ___
 
 #### Defined in
 
-[Country.ts:59](https://github.com/totalpave/country/blob/21d1403/src/Country.ts#L59)
+[Country.ts:59](https://github.com/totalpave/country/blob/17d287f/src/Country.ts#L59)
 
 ___
 
@@ -825,7 +825,7 @@ ___
 
 #### Defined in
 
-[Country.ts:60](https://github.com/totalpave/country/blob/21d1403/src/Country.ts#L60)
+[Country.ts:60](https://github.com/totalpave/country/blob/17d287f/src/Country.ts#L60)
 
 ___
 
@@ -835,7 +835,7 @@ ___
 
 #### Defined in
 
-[Country.ts:61](https://github.com/totalpave/country/blob/21d1403/src/Country.ts#L61)
+[Country.ts:61](https://github.com/totalpave/country/blob/17d287f/src/Country.ts#L61)
 
 ___
 
@@ -845,7 +845,7 @@ ___
 
 #### Defined in
 
-[Country.ts:62](https://github.com/totalpave/country/blob/21d1403/src/Country.ts#L62)
+[Country.ts:62](https://github.com/totalpave/country/blob/17d287f/src/Country.ts#L62)
 
 ___
 
@@ -855,7 +855,7 @@ ___
 
 #### Defined in
 
-[Country.ts:63](https://github.com/totalpave/country/blob/21d1403/src/Country.ts#L63)
+[Country.ts:63](https://github.com/totalpave/country/blob/17d287f/src/Country.ts#L63)
 
 ___
 
@@ -865,7 +865,7 @@ ___
 
 #### Defined in
 
-[Country.ts:64](https://github.com/totalpave/country/blob/21d1403/src/Country.ts#L64)
+[Country.ts:64](https://github.com/totalpave/country/blob/17d287f/src/Country.ts#L64)
 
 ___
 
@@ -875,7 +875,7 @@ ___
 
 #### Defined in
 
-[Country.ts:65](https://github.com/totalpave/country/blob/21d1403/src/Country.ts#L65)
+[Country.ts:65](https://github.com/totalpave/country/blob/17d287f/src/Country.ts#L65)
 
 ___
 
@@ -885,7 +885,7 @@ ___
 
 #### Defined in
 
-[Country.ts:66](https://github.com/totalpave/country/blob/21d1403/src/Country.ts#L66)
+[Country.ts:66](https://github.com/totalpave/country/blob/17d287f/src/Country.ts#L66)
 
 ___
 
@@ -895,7 +895,7 @@ ___
 
 #### Defined in
 
-[Country.ts:67](https://github.com/totalpave/country/blob/21d1403/src/Country.ts#L67)
+[Country.ts:67](https://github.com/totalpave/country/blob/17d287f/src/Country.ts#L67)
 
 ___
 
@@ -905,7 +905,7 @@ ___
 
 #### Defined in
 
-[Country.ts:68](https://github.com/totalpave/country/blob/21d1403/src/Country.ts#L68)
+[Country.ts:68](https://github.com/totalpave/country/blob/17d287f/src/Country.ts#L68)
 
 ___
 
@@ -915,7 +915,7 @@ ___
 
 #### Defined in
 
-[Country.ts:69](https://github.com/totalpave/country/blob/21d1403/src/Country.ts#L69)
+[Country.ts:69](https://github.com/totalpave/country/blob/17d287f/src/Country.ts#L69)
 
 ___
 
@@ -925,7 +925,7 @@ ___
 
 #### Defined in
 
-[Country.ts:70](https://github.com/totalpave/country/blob/21d1403/src/Country.ts#L70)
+[Country.ts:70](https://github.com/totalpave/country/blob/17d287f/src/Country.ts#L70)
 
 ___
 
@@ -935,7 +935,7 @@ ___
 
 #### Defined in
 
-[Country.ts:71](https://github.com/totalpave/country/blob/21d1403/src/Country.ts#L71)
+[Country.ts:71](https://github.com/totalpave/country/blob/17d287f/src/Country.ts#L71)
 
 ___
 
@@ -945,7 +945,7 @@ ___
 
 #### Defined in
 
-[Country.ts:72](https://github.com/totalpave/country/blob/21d1403/src/Country.ts#L72)
+[Country.ts:72](https://github.com/totalpave/country/blob/17d287f/src/Country.ts#L72)
 
 ___
 
@@ -955,7 +955,7 @@ ___
 
 #### Defined in
 
-[Country.ts:73](https://github.com/totalpave/country/blob/21d1403/src/Country.ts#L73)
+[Country.ts:73](https://github.com/totalpave/country/blob/17d287f/src/Country.ts#L73)
 
 ___
 
@@ -965,7 +965,7 @@ ___
 
 #### Defined in
 
-[Country.ts:74](https://github.com/totalpave/country/blob/21d1403/src/Country.ts#L74)
+[Country.ts:74](https://github.com/totalpave/country/blob/17d287f/src/Country.ts#L74)
 
 ___
 
@@ -975,7 +975,7 @@ ___
 
 #### Defined in
 
-[Country.ts:75](https://github.com/totalpave/country/blob/21d1403/src/Country.ts#L75)
+[Country.ts:75](https://github.com/totalpave/country/blob/17d287f/src/Country.ts#L75)
 
 ___
 
@@ -985,7 +985,7 @@ ___
 
 #### Defined in
 
-[Country.ts:76](https://github.com/totalpave/country/blob/21d1403/src/Country.ts#L76)
+[Country.ts:76](https://github.com/totalpave/country/blob/17d287f/src/Country.ts#L76)
 
 ___
 
@@ -995,7 +995,7 @@ ___
 
 #### Defined in
 
-[Country.ts:77](https://github.com/totalpave/country/blob/21d1403/src/Country.ts#L77)
+[Country.ts:77](https://github.com/totalpave/country/blob/17d287f/src/Country.ts#L77)
 
 ___
 
@@ -1005,7 +1005,7 @@ ___
 
 #### Defined in
 
-[Country.ts:78](https://github.com/totalpave/country/blob/21d1403/src/Country.ts#L78)
+[Country.ts:78](https://github.com/totalpave/country/blob/17d287f/src/Country.ts#L78)
 
 ___
 
@@ -1015,7 +1015,7 @@ ___
 
 #### Defined in
 
-[Country.ts:79](https://github.com/totalpave/country/blob/21d1403/src/Country.ts#L79)
+[Country.ts:79](https://github.com/totalpave/country/blob/17d287f/src/Country.ts#L79)
 
 ___
 
@@ -1025,7 +1025,7 @@ ___
 
 #### Defined in
 
-[Country.ts:80](https://github.com/totalpave/country/blob/21d1403/src/Country.ts#L80)
+[Country.ts:80](https://github.com/totalpave/country/blob/17d287f/src/Country.ts#L80)
 
 ___
 
@@ -1035,7 +1035,7 @@ ___
 
 #### Defined in
 
-[Country.ts:81](https://github.com/totalpave/country/blob/21d1403/src/Country.ts#L81)
+[Country.ts:81](https://github.com/totalpave/country/blob/17d287f/src/Country.ts#L81)
 
 ___
 
@@ -1045,7 +1045,7 @@ ___
 
 #### Defined in
 
-[Country.ts:82](https://github.com/totalpave/country/blob/21d1403/src/Country.ts#L82)
+[Country.ts:82](https://github.com/totalpave/country/blob/17d287f/src/Country.ts#L82)
 
 ___
 
@@ -1055,7 +1055,7 @@ ___
 
 #### Defined in
 
-[Country.ts:83](https://github.com/totalpave/country/blob/21d1403/src/Country.ts#L83)
+[Country.ts:83](https://github.com/totalpave/country/blob/17d287f/src/Country.ts#L83)
 
 ___
 
@@ -1065,7 +1065,7 @@ ___
 
 #### Defined in
 
-[Country.ts:84](https://github.com/totalpave/country/blob/21d1403/src/Country.ts#L84)
+[Country.ts:84](https://github.com/totalpave/country/blob/17d287f/src/Country.ts#L84)
 
 ___
 
@@ -1075,7 +1075,7 @@ ___
 
 #### Defined in
 
-[Country.ts:85](https://github.com/totalpave/country/blob/21d1403/src/Country.ts#L85)
+[Country.ts:85](https://github.com/totalpave/country/blob/17d287f/src/Country.ts#L85)
 
 ___
 
@@ -1085,7 +1085,7 @@ ___
 
 #### Defined in
 
-[Country.ts:86](https://github.com/totalpave/country/blob/21d1403/src/Country.ts#L86)
+[Country.ts:86](https://github.com/totalpave/country/blob/17d287f/src/Country.ts#L86)
 
 ___
 
@@ -1095,7 +1095,7 @@ ___
 
 #### Defined in
 
-[Country.ts:87](https://github.com/totalpave/country/blob/21d1403/src/Country.ts#L87)
+[Country.ts:87](https://github.com/totalpave/country/blob/17d287f/src/Country.ts#L87)
 
 ___
 
@@ -1105,7 +1105,7 @@ ___
 
 #### Defined in
 
-[Country.ts:88](https://github.com/totalpave/country/blob/21d1403/src/Country.ts#L88)
+[Country.ts:88](https://github.com/totalpave/country/blob/17d287f/src/Country.ts#L88)
 
 ___
 
@@ -1115,7 +1115,7 @@ ___
 
 #### Defined in
 
-[Country.ts:89](https://github.com/totalpave/country/blob/21d1403/src/Country.ts#L89)
+[Country.ts:89](https://github.com/totalpave/country/blob/17d287f/src/Country.ts#L89)
 
 ___
 
@@ -1125,7 +1125,7 @@ ___
 
 #### Defined in
 
-[Country.ts:90](https://github.com/totalpave/country/blob/21d1403/src/Country.ts#L90)
+[Country.ts:90](https://github.com/totalpave/country/blob/17d287f/src/Country.ts#L90)
 
 ___
 
@@ -1135,7 +1135,7 @@ ___
 
 #### Defined in
 
-[Country.ts:91](https://github.com/totalpave/country/blob/21d1403/src/Country.ts#L91)
+[Country.ts:91](https://github.com/totalpave/country/blob/17d287f/src/Country.ts#L91)
 
 ___
 
@@ -1145,7 +1145,7 @@ ___
 
 #### Defined in
 
-[Country.ts:92](https://github.com/totalpave/country/blob/21d1403/src/Country.ts#L92)
+[Country.ts:92](https://github.com/totalpave/country/blob/17d287f/src/Country.ts#L92)
 
 ___
 
@@ -1155,7 +1155,7 @@ ___
 
 #### Defined in
 
-[Country.ts:93](https://github.com/totalpave/country/blob/21d1403/src/Country.ts#L93)
+[Country.ts:93](https://github.com/totalpave/country/blob/17d287f/src/Country.ts#L93)
 
 ___
 
@@ -1165,7 +1165,7 @@ ___
 
 #### Defined in
 
-[Country.ts:94](https://github.com/totalpave/country/blob/21d1403/src/Country.ts#L94)
+[Country.ts:94](https://github.com/totalpave/country/blob/17d287f/src/Country.ts#L94)
 
 ___
 
@@ -1175,7 +1175,7 @@ ___
 
 #### Defined in
 
-[Country.ts:95](https://github.com/totalpave/country/blob/21d1403/src/Country.ts#L95)
+[Country.ts:95](https://github.com/totalpave/country/blob/17d287f/src/Country.ts#L95)
 
 ___
 
@@ -1185,7 +1185,7 @@ ___
 
 #### Defined in
 
-[Country.ts:96](https://github.com/totalpave/country/blob/21d1403/src/Country.ts#L96)
+[Country.ts:96](https://github.com/totalpave/country/blob/17d287f/src/Country.ts#L96)
 
 ___
 
@@ -1195,7 +1195,7 @@ ___
 
 #### Defined in
 
-[Country.ts:97](https://github.com/totalpave/country/blob/21d1403/src/Country.ts#L97)
+[Country.ts:97](https://github.com/totalpave/country/blob/17d287f/src/Country.ts#L97)
 
 ___
 
@@ -1205,7 +1205,7 @@ ___
 
 #### Defined in
 
-[Country.ts:98](https://github.com/totalpave/country/blob/21d1403/src/Country.ts#L98)
+[Country.ts:98](https://github.com/totalpave/country/blob/17d287f/src/Country.ts#L98)
 
 ___
 
@@ -1215,7 +1215,7 @@ ___
 
 #### Defined in
 
-[Country.ts:99](https://github.com/totalpave/country/blob/21d1403/src/Country.ts#L99)
+[Country.ts:99](https://github.com/totalpave/country/blob/17d287f/src/Country.ts#L99)
 
 ___
 
@@ -1225,7 +1225,7 @@ ___
 
 #### Defined in
 
-[Country.ts:100](https://github.com/totalpave/country/blob/21d1403/src/Country.ts#L100)
+[Country.ts:100](https://github.com/totalpave/country/blob/17d287f/src/Country.ts#L100)
 
 ___
 
@@ -1235,7 +1235,7 @@ ___
 
 #### Defined in
 
-[Country.ts:101](https://github.com/totalpave/country/blob/21d1403/src/Country.ts#L101)
+[Country.ts:101](https://github.com/totalpave/country/blob/17d287f/src/Country.ts#L101)
 
 ___
 
@@ -1245,7 +1245,7 @@ ___
 
 #### Defined in
 
-[Country.ts:102](https://github.com/totalpave/country/blob/21d1403/src/Country.ts#L102)
+[Country.ts:102](https://github.com/totalpave/country/blob/17d287f/src/Country.ts#L102)
 
 ___
 
@@ -1255,7 +1255,7 @@ ___
 
 #### Defined in
 
-[Country.ts:103](https://github.com/totalpave/country/blob/21d1403/src/Country.ts#L103)
+[Country.ts:103](https://github.com/totalpave/country/blob/17d287f/src/Country.ts#L103)
 
 ___
 
@@ -1265,7 +1265,7 @@ ___
 
 #### Defined in
 
-[Country.ts:104](https://github.com/totalpave/country/blob/21d1403/src/Country.ts#L104)
+[Country.ts:104](https://github.com/totalpave/country/blob/17d287f/src/Country.ts#L104)
 
 ___
 
@@ -1275,7 +1275,7 @@ ___
 
 #### Defined in
 
-[Country.ts:105](https://github.com/totalpave/country/blob/21d1403/src/Country.ts#L105)
+[Country.ts:105](https://github.com/totalpave/country/blob/17d287f/src/Country.ts#L105)
 
 ___
 
@@ -1285,7 +1285,7 @@ ___
 
 #### Defined in
 
-[Country.ts:106](https://github.com/totalpave/country/blob/21d1403/src/Country.ts#L106)
+[Country.ts:106](https://github.com/totalpave/country/blob/17d287f/src/Country.ts#L106)
 
 ___
 
@@ -1295,7 +1295,7 @@ ___
 
 #### Defined in
 
-[Country.ts:107](https://github.com/totalpave/country/blob/21d1403/src/Country.ts#L107)
+[Country.ts:107](https://github.com/totalpave/country/blob/17d287f/src/Country.ts#L107)
 
 ___
 
@@ -1305,7 +1305,7 @@ ___
 
 #### Defined in
 
-[Country.ts:108](https://github.com/totalpave/country/blob/21d1403/src/Country.ts#L108)
+[Country.ts:108](https://github.com/totalpave/country/blob/17d287f/src/Country.ts#L108)
 
 ___
 
@@ -1315,7 +1315,7 @@ ___
 
 #### Defined in
 
-[Country.ts:109](https://github.com/totalpave/country/blob/21d1403/src/Country.ts#L109)
+[Country.ts:109](https://github.com/totalpave/country/blob/17d287f/src/Country.ts#L109)
 
 ___
 
@@ -1325,7 +1325,7 @@ ___
 
 #### Defined in
 
-[Country.ts:110](https://github.com/totalpave/country/blob/21d1403/src/Country.ts#L110)
+[Country.ts:110](https://github.com/totalpave/country/blob/17d287f/src/Country.ts#L110)
 
 ___
 
@@ -1335,7 +1335,7 @@ ___
 
 #### Defined in
 
-[Country.ts:111](https://github.com/totalpave/country/blob/21d1403/src/Country.ts#L111)
+[Country.ts:111](https://github.com/totalpave/country/blob/17d287f/src/Country.ts#L111)
 
 ___
 
@@ -1345,7 +1345,7 @@ ___
 
 #### Defined in
 
-[Country.ts:112](https://github.com/totalpave/country/blob/21d1403/src/Country.ts#L112)
+[Country.ts:112](https://github.com/totalpave/country/blob/17d287f/src/Country.ts#L112)
 
 ___
 
@@ -1355,7 +1355,7 @@ ___
 
 #### Defined in
 
-[Country.ts:113](https://github.com/totalpave/country/blob/21d1403/src/Country.ts#L113)
+[Country.ts:113](https://github.com/totalpave/country/blob/17d287f/src/Country.ts#L113)
 
 ___
 
@@ -1365,7 +1365,7 @@ ___
 
 #### Defined in
 
-[Country.ts:114](https://github.com/totalpave/country/blob/21d1403/src/Country.ts#L114)
+[Country.ts:114](https://github.com/totalpave/country/blob/17d287f/src/Country.ts#L114)
 
 ___
 
@@ -1375,7 +1375,7 @@ ___
 
 #### Defined in
 
-[Country.ts:115](https://github.com/totalpave/country/blob/21d1403/src/Country.ts#L115)
+[Country.ts:115](https://github.com/totalpave/country/blob/17d287f/src/Country.ts#L115)
 
 ___
 
@@ -1385,7 +1385,7 @@ ___
 
 #### Defined in
 
-[Country.ts:116](https://github.com/totalpave/country/blob/21d1403/src/Country.ts#L116)
+[Country.ts:116](https://github.com/totalpave/country/blob/17d287f/src/Country.ts#L116)
 
 ___
 
@@ -1395,7 +1395,7 @@ ___
 
 #### Defined in
 
-[Country.ts:117](https://github.com/totalpave/country/blob/21d1403/src/Country.ts#L117)
+[Country.ts:117](https://github.com/totalpave/country/blob/17d287f/src/Country.ts#L117)
 
 ___
 
@@ -1405,7 +1405,7 @@ ___
 
 #### Defined in
 
-[Country.ts:118](https://github.com/totalpave/country/blob/21d1403/src/Country.ts#L118)
+[Country.ts:118](https://github.com/totalpave/country/blob/17d287f/src/Country.ts#L118)
 
 ___
 
@@ -1415,7 +1415,7 @@ ___
 
 #### Defined in
 
-[Country.ts:119](https://github.com/totalpave/country/blob/21d1403/src/Country.ts#L119)
+[Country.ts:119](https://github.com/totalpave/country/blob/17d287f/src/Country.ts#L119)
 
 ___
 
@@ -1425,7 +1425,7 @@ ___
 
 #### Defined in
 
-[Country.ts:120](https://github.com/totalpave/country/blob/21d1403/src/Country.ts#L120)
+[Country.ts:120](https://github.com/totalpave/country/blob/17d287f/src/Country.ts#L120)
 
 ___
 
@@ -1435,7 +1435,7 @@ ___
 
 #### Defined in
 
-[Country.ts:121](https://github.com/totalpave/country/blob/21d1403/src/Country.ts#L121)
+[Country.ts:121](https://github.com/totalpave/country/blob/17d287f/src/Country.ts#L121)
 
 ___
 
@@ -1445,7 +1445,7 @@ ___
 
 #### Defined in
 
-[Country.ts:122](https://github.com/totalpave/country/blob/21d1403/src/Country.ts#L122)
+[Country.ts:122](https://github.com/totalpave/country/blob/17d287f/src/Country.ts#L122)
 
 ___
 
@@ -1455,7 +1455,7 @@ ___
 
 #### Defined in
 
-[Country.ts:123](https://github.com/totalpave/country/blob/21d1403/src/Country.ts#L123)
+[Country.ts:123](https://github.com/totalpave/country/blob/17d287f/src/Country.ts#L123)
 
 ___
 
@@ -1465,7 +1465,7 @@ ___
 
 #### Defined in
 
-[Country.ts:124](https://github.com/totalpave/country/blob/21d1403/src/Country.ts#L124)
+[Country.ts:124](https://github.com/totalpave/country/blob/17d287f/src/Country.ts#L124)
 
 ___
 
@@ -1475,7 +1475,7 @@ ___
 
 #### Defined in
 
-[Country.ts:125](https://github.com/totalpave/country/blob/21d1403/src/Country.ts#L125)
+[Country.ts:125](https://github.com/totalpave/country/blob/17d287f/src/Country.ts#L125)
 
 ___
 
@@ -1485,7 +1485,7 @@ ___
 
 #### Defined in
 
-[Country.ts:126](https://github.com/totalpave/country/blob/21d1403/src/Country.ts#L126)
+[Country.ts:126](https://github.com/totalpave/country/blob/17d287f/src/Country.ts#L126)
 
 ___
 
@@ -1495,7 +1495,7 @@ ___
 
 #### Defined in
 
-[Country.ts:127](https://github.com/totalpave/country/blob/21d1403/src/Country.ts#L127)
+[Country.ts:127](https://github.com/totalpave/country/blob/17d287f/src/Country.ts#L127)
 
 ___
 
@@ -1505,7 +1505,7 @@ ___
 
 #### Defined in
 
-[Country.ts:128](https://github.com/totalpave/country/blob/21d1403/src/Country.ts#L128)
+[Country.ts:128](https://github.com/totalpave/country/blob/17d287f/src/Country.ts#L128)
 
 ___
 
@@ -1515,7 +1515,7 @@ ___
 
 #### Defined in
 
-[Country.ts:129](https://github.com/totalpave/country/blob/21d1403/src/Country.ts#L129)
+[Country.ts:129](https://github.com/totalpave/country/blob/17d287f/src/Country.ts#L129)
 
 ___
 
@@ -1525,7 +1525,7 @@ ___
 
 #### Defined in
 
-[Country.ts:130](https://github.com/totalpave/country/blob/21d1403/src/Country.ts#L130)
+[Country.ts:130](https://github.com/totalpave/country/blob/17d287f/src/Country.ts#L130)
 
 ___
 
@@ -1535,7 +1535,7 @@ ___
 
 #### Defined in
 
-[Country.ts:131](https://github.com/totalpave/country/blob/21d1403/src/Country.ts#L131)
+[Country.ts:131](https://github.com/totalpave/country/blob/17d287f/src/Country.ts#L131)
 
 ___
 
@@ -1545,7 +1545,7 @@ ___
 
 #### Defined in
 
-[Country.ts:132](https://github.com/totalpave/country/blob/21d1403/src/Country.ts#L132)
+[Country.ts:132](https://github.com/totalpave/country/blob/17d287f/src/Country.ts#L132)
 
 ___
 
@@ -1555,7 +1555,7 @@ ___
 
 #### Defined in
 
-[Country.ts:133](https://github.com/totalpave/country/blob/21d1403/src/Country.ts#L133)
+[Country.ts:133](https://github.com/totalpave/country/blob/17d287f/src/Country.ts#L133)
 
 ___
 
@@ -1565,7 +1565,7 @@ ___
 
 #### Defined in
 
-[Country.ts:134](https://github.com/totalpave/country/blob/21d1403/src/Country.ts#L134)
+[Country.ts:134](https://github.com/totalpave/country/blob/17d287f/src/Country.ts#L134)
 
 ___
 
@@ -1575,7 +1575,7 @@ ___
 
 #### Defined in
 
-[Country.ts:135](https://github.com/totalpave/country/blob/21d1403/src/Country.ts#L135)
+[Country.ts:135](https://github.com/totalpave/country/blob/17d287f/src/Country.ts#L135)
 
 ___
 
@@ -1585,7 +1585,7 @@ ___
 
 #### Defined in
 
-[Country.ts:136](https://github.com/totalpave/country/blob/21d1403/src/Country.ts#L136)
+[Country.ts:136](https://github.com/totalpave/country/blob/17d287f/src/Country.ts#L136)
 
 ___
 
@@ -1595,7 +1595,7 @@ ___
 
 #### Defined in
 
-[Country.ts:137](https://github.com/totalpave/country/blob/21d1403/src/Country.ts#L137)
+[Country.ts:137](https://github.com/totalpave/country/blob/17d287f/src/Country.ts#L137)
 
 ___
 
@@ -1605,7 +1605,7 @@ ___
 
 #### Defined in
 
-[Country.ts:138](https://github.com/totalpave/country/blob/21d1403/src/Country.ts#L138)
+[Country.ts:138](https://github.com/totalpave/country/blob/17d287f/src/Country.ts#L138)
 
 ___
 
@@ -1615,7 +1615,7 @@ ___
 
 #### Defined in
 
-[Country.ts:139](https://github.com/totalpave/country/blob/21d1403/src/Country.ts#L139)
+[Country.ts:139](https://github.com/totalpave/country/blob/17d287f/src/Country.ts#L139)
 
 ___
 
@@ -1625,7 +1625,7 @@ ___
 
 #### Defined in
 
-[Country.ts:140](https://github.com/totalpave/country/blob/21d1403/src/Country.ts#L140)
+[Country.ts:140](https://github.com/totalpave/country/blob/17d287f/src/Country.ts#L140)
 
 ___
 
@@ -1635,7 +1635,7 @@ ___
 
 #### Defined in
 
-[Country.ts:141](https://github.com/totalpave/country/blob/21d1403/src/Country.ts#L141)
+[Country.ts:141](https://github.com/totalpave/country/blob/17d287f/src/Country.ts#L141)
 
 ___
 
@@ -1645,7 +1645,7 @@ ___
 
 #### Defined in
 
-[Country.ts:142](https://github.com/totalpave/country/blob/21d1403/src/Country.ts#L142)
+[Country.ts:142](https://github.com/totalpave/country/blob/17d287f/src/Country.ts#L142)
 
 ___
 
@@ -1655,7 +1655,7 @@ ___
 
 #### Defined in
 
-[Country.ts:143](https://github.com/totalpave/country/blob/21d1403/src/Country.ts#L143)
+[Country.ts:143](https://github.com/totalpave/country/blob/17d287f/src/Country.ts#L143)
 
 ___
 
@@ -1665,7 +1665,7 @@ ___
 
 #### Defined in
 
-[Country.ts:144](https://github.com/totalpave/country/blob/21d1403/src/Country.ts#L144)
+[Country.ts:144](https://github.com/totalpave/country/blob/17d287f/src/Country.ts#L144)
 
 ___
 
@@ -1675,7 +1675,7 @@ ___
 
 #### Defined in
 
-[Country.ts:145](https://github.com/totalpave/country/blob/21d1403/src/Country.ts#L145)
+[Country.ts:145](https://github.com/totalpave/country/blob/17d287f/src/Country.ts#L145)
 
 ___
 
@@ -1685,7 +1685,7 @@ ___
 
 #### Defined in
 
-[Country.ts:146](https://github.com/totalpave/country/blob/21d1403/src/Country.ts#L146)
+[Country.ts:146](https://github.com/totalpave/country/blob/17d287f/src/Country.ts#L146)
 
 ___
 
@@ -1695,7 +1695,7 @@ ___
 
 #### Defined in
 
-[Country.ts:147](https://github.com/totalpave/country/blob/21d1403/src/Country.ts#L147)
+[Country.ts:147](https://github.com/totalpave/country/blob/17d287f/src/Country.ts#L147)
 
 ___
 
@@ -1705,7 +1705,7 @@ ___
 
 #### Defined in
 
-[Country.ts:148](https://github.com/totalpave/country/blob/21d1403/src/Country.ts#L148)
+[Country.ts:148](https://github.com/totalpave/country/blob/17d287f/src/Country.ts#L148)
 
 ___
 
@@ -1715,7 +1715,7 @@ ___
 
 #### Defined in
 
-[Country.ts:149](https://github.com/totalpave/country/blob/21d1403/src/Country.ts#L149)
+[Country.ts:149](https://github.com/totalpave/country/blob/17d287f/src/Country.ts#L149)
 
 ___
 
@@ -1725,7 +1725,7 @@ ___
 
 #### Defined in
 
-[Country.ts:150](https://github.com/totalpave/country/blob/21d1403/src/Country.ts#L150)
+[Country.ts:150](https://github.com/totalpave/country/blob/17d287f/src/Country.ts#L150)
 
 ___
 
@@ -1735,7 +1735,7 @@ ___
 
 #### Defined in
 
-[Country.ts:151](https://github.com/totalpave/country/blob/21d1403/src/Country.ts#L151)
+[Country.ts:151](https://github.com/totalpave/country/blob/17d287f/src/Country.ts#L151)
 
 ___
 
@@ -1745,7 +1745,7 @@ ___
 
 #### Defined in
 
-[Country.ts:152](https://github.com/totalpave/country/blob/21d1403/src/Country.ts#L152)
+[Country.ts:152](https://github.com/totalpave/country/blob/17d287f/src/Country.ts#L152)
 
 ___
 
@@ -1755,7 +1755,7 @@ ___
 
 #### Defined in
 
-[Country.ts:153](https://github.com/totalpave/country/blob/21d1403/src/Country.ts#L153)
+[Country.ts:153](https://github.com/totalpave/country/blob/17d287f/src/Country.ts#L153)
 
 ___
 
@@ -1765,7 +1765,7 @@ ___
 
 #### Defined in
 
-[Country.ts:154](https://github.com/totalpave/country/blob/21d1403/src/Country.ts#L154)
+[Country.ts:154](https://github.com/totalpave/country/blob/17d287f/src/Country.ts#L154)
 
 ___
 
@@ -1775,7 +1775,7 @@ ___
 
 #### Defined in
 
-[Country.ts:155](https://github.com/totalpave/country/blob/21d1403/src/Country.ts#L155)
+[Country.ts:155](https://github.com/totalpave/country/blob/17d287f/src/Country.ts#L155)
 
 ___
 
@@ -1785,7 +1785,7 @@ ___
 
 #### Defined in
 
-[Country.ts:157](https://github.com/totalpave/country/blob/21d1403/src/Country.ts#L157)
+[Country.ts:157](https://github.com/totalpave/country/blob/17d287f/src/Country.ts#L157)
 
 ___
 
@@ -1795,7 +1795,7 @@ ___
 
 #### Defined in
 
-[Country.ts:156](https://github.com/totalpave/country/blob/21d1403/src/Country.ts#L156)
+[Country.ts:156](https://github.com/totalpave/country/blob/17d287f/src/Country.ts#L156)
 
 ___
 
@@ -1805,7 +1805,7 @@ ___
 
 #### Defined in
 
-[Country.ts:158](https://github.com/totalpave/country/blob/21d1403/src/Country.ts#L158)
+[Country.ts:158](https://github.com/totalpave/country/blob/17d287f/src/Country.ts#L158)
 
 ___
 
@@ -1815,7 +1815,7 @@ ___
 
 #### Defined in
 
-[Country.ts:159](https://github.com/totalpave/country/blob/21d1403/src/Country.ts#L159)
+[Country.ts:159](https://github.com/totalpave/country/blob/17d287f/src/Country.ts#L159)
 
 ___
 
@@ -1825,7 +1825,7 @@ ___
 
 #### Defined in
 
-[Country.ts:160](https://github.com/totalpave/country/blob/21d1403/src/Country.ts#L160)
+[Country.ts:160](https://github.com/totalpave/country/blob/17d287f/src/Country.ts#L160)
 
 ___
 
@@ -1835,7 +1835,7 @@ ___
 
 #### Defined in
 
-[Country.ts:161](https://github.com/totalpave/country/blob/21d1403/src/Country.ts#L161)
+[Country.ts:161](https://github.com/totalpave/country/blob/17d287f/src/Country.ts#L161)
 
 ___
 
@@ -1845,7 +1845,7 @@ ___
 
 #### Defined in
 
-[Country.ts:162](https://github.com/totalpave/country/blob/21d1403/src/Country.ts#L162)
+[Country.ts:162](https://github.com/totalpave/country/blob/17d287f/src/Country.ts#L162)
 
 ___
 
@@ -1855,7 +1855,7 @@ ___
 
 #### Defined in
 
-[Country.ts:163](https://github.com/totalpave/country/blob/21d1403/src/Country.ts#L163)
+[Country.ts:163](https://github.com/totalpave/country/blob/17d287f/src/Country.ts#L163)
 
 ___
 
@@ -1865,7 +1865,7 @@ ___
 
 #### Defined in
 
-[Country.ts:164](https://github.com/totalpave/country/blob/21d1403/src/Country.ts#L164)
+[Country.ts:164](https://github.com/totalpave/country/blob/17d287f/src/Country.ts#L164)
 
 ___
 
@@ -1875,7 +1875,7 @@ ___
 
 #### Defined in
 
-[Country.ts:165](https://github.com/totalpave/country/blob/21d1403/src/Country.ts#L165)
+[Country.ts:165](https://github.com/totalpave/country/blob/17d287f/src/Country.ts#L165)
 
 ___
 
@@ -1885,7 +1885,7 @@ ___
 
 #### Defined in
 
-[Country.ts:166](https://github.com/totalpave/country/blob/21d1403/src/Country.ts#L166)
+[Country.ts:166](https://github.com/totalpave/country/blob/17d287f/src/Country.ts#L166)
 
 ___
 
@@ -1895,7 +1895,7 @@ ___
 
 #### Defined in
 
-[Country.ts:167](https://github.com/totalpave/country/blob/21d1403/src/Country.ts#L167)
+[Country.ts:167](https://github.com/totalpave/country/blob/17d287f/src/Country.ts#L167)
 
 ___
 
@@ -1905,7 +1905,7 @@ ___
 
 #### Defined in
 
-[Country.ts:168](https://github.com/totalpave/country/blob/21d1403/src/Country.ts#L168)
+[Country.ts:168](https://github.com/totalpave/country/blob/17d287f/src/Country.ts#L168)
 
 ___
 
@@ -1915,7 +1915,7 @@ ___
 
 #### Defined in
 
-[Country.ts:169](https://github.com/totalpave/country/blob/21d1403/src/Country.ts#L169)
+[Country.ts:169](https://github.com/totalpave/country/blob/17d287f/src/Country.ts#L169)
 
 ___
 
@@ -1925,7 +1925,7 @@ ___
 
 #### Defined in
 
-[Country.ts:170](https://github.com/totalpave/country/blob/21d1403/src/Country.ts#L170)
+[Country.ts:170](https://github.com/totalpave/country/blob/17d287f/src/Country.ts#L170)
 
 ___
 
@@ -1935,7 +1935,7 @@ ___
 
 #### Defined in
 
-[Country.ts:171](https://github.com/totalpave/country/blob/21d1403/src/Country.ts#L171)
+[Country.ts:171](https://github.com/totalpave/country/blob/17d287f/src/Country.ts#L171)
 
 ___
 
@@ -1945,7 +1945,7 @@ ___
 
 #### Defined in
 
-[Country.ts:172](https://github.com/totalpave/country/blob/21d1403/src/Country.ts#L172)
+[Country.ts:172](https://github.com/totalpave/country/blob/17d287f/src/Country.ts#L172)
 
 ___
 
@@ -1955,7 +1955,7 @@ ___
 
 #### Defined in
 
-[Country.ts:173](https://github.com/totalpave/country/blob/21d1403/src/Country.ts#L173)
+[Country.ts:173](https://github.com/totalpave/country/blob/17d287f/src/Country.ts#L173)
 
 ___
 
@@ -1965,7 +1965,7 @@ ___
 
 #### Defined in
 
-[Country.ts:174](https://github.com/totalpave/country/blob/21d1403/src/Country.ts#L174)
+[Country.ts:174](https://github.com/totalpave/country/blob/17d287f/src/Country.ts#L174)
 
 ___
 
@@ -1975,7 +1975,7 @@ ___
 
 #### Defined in
 
-[Country.ts:175](https://github.com/totalpave/country/blob/21d1403/src/Country.ts#L175)
+[Country.ts:175](https://github.com/totalpave/country/blob/17d287f/src/Country.ts#L175)
 
 ___
 
@@ -1985,7 +1985,7 @@ ___
 
 #### Defined in
 
-[Country.ts:176](https://github.com/totalpave/country/blob/21d1403/src/Country.ts#L176)
+[Country.ts:176](https://github.com/totalpave/country/blob/17d287f/src/Country.ts#L176)
 
 ___
 
@@ -1995,7 +1995,7 @@ ___
 
 #### Defined in
 
-[Country.ts:177](https://github.com/totalpave/country/blob/21d1403/src/Country.ts#L177)
+[Country.ts:177](https://github.com/totalpave/country/blob/17d287f/src/Country.ts#L177)
 
 ___
 
@@ -2005,7 +2005,7 @@ ___
 
 #### Defined in
 
-[Country.ts:178](https://github.com/totalpave/country/blob/21d1403/src/Country.ts#L178)
+[Country.ts:178](https://github.com/totalpave/country/blob/17d287f/src/Country.ts#L178)
 
 ___
 
@@ -2015,7 +2015,7 @@ ___
 
 #### Defined in
 
-[Country.ts:179](https://github.com/totalpave/country/blob/21d1403/src/Country.ts#L179)
+[Country.ts:179](https://github.com/totalpave/country/blob/17d287f/src/Country.ts#L179)
 
 ___
 
@@ -2025,7 +2025,7 @@ ___
 
 #### Defined in
 
-[Country.ts:180](https://github.com/totalpave/country/blob/21d1403/src/Country.ts#L180)
+[Country.ts:180](https://github.com/totalpave/country/blob/17d287f/src/Country.ts#L180)
 
 ___
 
@@ -2035,7 +2035,7 @@ ___
 
 #### Defined in
 
-[Country.ts:181](https://github.com/totalpave/country/blob/21d1403/src/Country.ts#L181)
+[Country.ts:181](https://github.com/totalpave/country/blob/17d287f/src/Country.ts#L181)
 
 ___
 
@@ -2045,7 +2045,7 @@ ___
 
 #### Defined in
 
-[Country.ts:182](https://github.com/totalpave/country/blob/21d1403/src/Country.ts#L182)
+[Country.ts:182](https://github.com/totalpave/country/blob/17d287f/src/Country.ts#L182)
 
 ___
 
@@ -2055,7 +2055,7 @@ ___
 
 #### Defined in
 
-[Country.ts:183](https://github.com/totalpave/country/blob/21d1403/src/Country.ts#L183)
+[Country.ts:183](https://github.com/totalpave/country/blob/17d287f/src/Country.ts#L183)
 
 ___
 
@@ -2065,7 +2065,7 @@ ___
 
 #### Defined in
 
-[Country.ts:184](https://github.com/totalpave/country/blob/21d1403/src/Country.ts#L184)
+[Country.ts:184](https://github.com/totalpave/country/blob/17d287f/src/Country.ts#L184)
 
 ___
 
@@ -2075,7 +2075,7 @@ ___
 
 #### Defined in
 
-[Country.ts:185](https://github.com/totalpave/country/blob/21d1403/src/Country.ts#L185)
+[Country.ts:185](https://github.com/totalpave/country/blob/17d287f/src/Country.ts#L185)
 
 ___
 
@@ -2085,7 +2085,7 @@ ___
 
 #### Defined in
 
-[Country.ts:186](https://github.com/totalpave/country/blob/21d1403/src/Country.ts#L186)
+[Country.ts:186](https://github.com/totalpave/country/blob/17d287f/src/Country.ts#L186)
 
 ___
 
@@ -2095,7 +2095,7 @@ ___
 
 #### Defined in
 
-[Country.ts:187](https://github.com/totalpave/country/blob/21d1403/src/Country.ts#L187)
+[Country.ts:187](https://github.com/totalpave/country/blob/17d287f/src/Country.ts#L187)
 
 ___
 
@@ -2105,7 +2105,7 @@ ___
 
 #### Defined in
 
-[Country.ts:188](https://github.com/totalpave/country/blob/21d1403/src/Country.ts#L188)
+[Country.ts:188](https://github.com/totalpave/country/blob/17d287f/src/Country.ts#L188)
 
 ___
 
@@ -2115,7 +2115,7 @@ ___
 
 #### Defined in
 
-[Country.ts:189](https://github.com/totalpave/country/blob/21d1403/src/Country.ts#L189)
+[Country.ts:189](https://github.com/totalpave/country/blob/17d287f/src/Country.ts#L189)
 
 ___
 
@@ -2125,7 +2125,7 @@ ___
 
 #### Defined in
 
-[Country.ts:190](https://github.com/totalpave/country/blob/21d1403/src/Country.ts#L190)
+[Country.ts:190](https://github.com/totalpave/country/blob/17d287f/src/Country.ts#L190)
 
 ___
 
@@ -2135,7 +2135,7 @@ ___
 
 #### Defined in
 
-[Country.ts:191](https://github.com/totalpave/country/blob/21d1403/src/Country.ts#L191)
+[Country.ts:191](https://github.com/totalpave/country/blob/17d287f/src/Country.ts#L191)
 
 ___
 
@@ -2145,7 +2145,7 @@ ___
 
 #### Defined in
 
-[Country.ts:192](https://github.com/totalpave/country/blob/21d1403/src/Country.ts#L192)
+[Country.ts:192](https://github.com/totalpave/country/blob/17d287f/src/Country.ts#L192)
 
 ___
 
@@ -2155,7 +2155,7 @@ ___
 
 #### Defined in
 
-[Country.ts:193](https://github.com/totalpave/country/blob/21d1403/src/Country.ts#L193)
+[Country.ts:193](https://github.com/totalpave/country/blob/17d287f/src/Country.ts#L193)
 
 ___
 
@@ -2165,7 +2165,7 @@ ___
 
 #### Defined in
 
-[Country.ts:194](https://github.com/totalpave/country/blob/21d1403/src/Country.ts#L194)
+[Country.ts:194](https://github.com/totalpave/country/blob/17d287f/src/Country.ts#L194)
 
 ___
 
@@ -2175,7 +2175,7 @@ ___
 
 #### Defined in
 
-[Country.ts:195](https://github.com/totalpave/country/blob/21d1403/src/Country.ts#L195)
+[Country.ts:195](https://github.com/totalpave/country/blob/17d287f/src/Country.ts#L195)
 
 ___
 
@@ -2185,7 +2185,7 @@ ___
 
 #### Defined in
 
-[Country.ts:196](https://github.com/totalpave/country/blob/21d1403/src/Country.ts#L196)
+[Country.ts:196](https://github.com/totalpave/country/blob/17d287f/src/Country.ts#L196)
 
 ___
 
@@ -2195,7 +2195,7 @@ ___
 
 #### Defined in
 
-[Country.ts:197](https://github.com/totalpave/country/blob/21d1403/src/Country.ts#L197)
+[Country.ts:197](https://github.com/totalpave/country/blob/17d287f/src/Country.ts#L197)
 
 ___
 
@@ -2205,7 +2205,7 @@ ___
 
 #### Defined in
 
-[Country.ts:198](https://github.com/totalpave/country/blob/21d1403/src/Country.ts#L198)
+[Country.ts:198](https://github.com/totalpave/country/blob/17d287f/src/Country.ts#L198)
 
 ___
 
@@ -2215,7 +2215,7 @@ ___
 
 #### Defined in
 
-[Country.ts:199](https://github.com/totalpave/country/blob/21d1403/src/Country.ts#L199)
+[Country.ts:199](https://github.com/totalpave/country/blob/17d287f/src/Country.ts#L199)
 
 ___
 
@@ -2225,7 +2225,7 @@ ___
 
 #### Defined in
 
-[Country.ts:200](https://github.com/totalpave/country/blob/21d1403/src/Country.ts#L200)
+[Country.ts:200](https://github.com/totalpave/country/blob/17d287f/src/Country.ts#L200)
 
 ___
 
@@ -2235,7 +2235,7 @@ ___
 
 #### Defined in
 
-[Country.ts:201](https://github.com/totalpave/country/blob/21d1403/src/Country.ts#L201)
+[Country.ts:201](https://github.com/totalpave/country/blob/17d287f/src/Country.ts#L201)
 
 ___
 
@@ -2245,7 +2245,7 @@ ___
 
 #### Defined in
 
-[Country.ts:202](https://github.com/totalpave/country/blob/21d1403/src/Country.ts#L202)
+[Country.ts:202](https://github.com/totalpave/country/blob/17d287f/src/Country.ts#L202)
 
 ___
 
@@ -2255,7 +2255,7 @@ ___
 
 #### Defined in
 
-[Country.ts:203](https://github.com/totalpave/country/blob/21d1403/src/Country.ts#L203)
+[Country.ts:203](https://github.com/totalpave/country/blob/17d287f/src/Country.ts#L203)
 
 ___
 
@@ -2265,7 +2265,7 @@ ___
 
 #### Defined in
 
-[Country.ts:204](https://github.com/totalpave/country/blob/21d1403/src/Country.ts#L204)
+[Country.ts:204](https://github.com/totalpave/country/blob/17d287f/src/Country.ts#L204)
 
 ___
 
@@ -2275,7 +2275,7 @@ ___
 
 #### Defined in
 
-[Country.ts:205](https://github.com/totalpave/country/blob/21d1403/src/Country.ts#L205)
+[Country.ts:205](https://github.com/totalpave/country/blob/17d287f/src/Country.ts#L205)
 
 ___
 
@@ -2285,7 +2285,7 @@ ___
 
 #### Defined in
 
-[Country.ts:206](https://github.com/totalpave/country/blob/21d1403/src/Country.ts#L206)
+[Country.ts:206](https://github.com/totalpave/country/blob/17d287f/src/Country.ts#L206)
 
 ___
 
@@ -2295,7 +2295,7 @@ ___
 
 #### Defined in
 
-[Country.ts:207](https://github.com/totalpave/country/blob/21d1403/src/Country.ts#L207)
+[Country.ts:207](https://github.com/totalpave/country/blob/17d287f/src/Country.ts#L207)
 
 ___
 
@@ -2305,7 +2305,7 @@ ___
 
 #### Defined in
 
-[Country.ts:208](https://github.com/totalpave/country/blob/21d1403/src/Country.ts#L208)
+[Country.ts:208](https://github.com/totalpave/country/blob/17d287f/src/Country.ts#L208)
 
 ___
 
@@ -2315,7 +2315,7 @@ ___
 
 #### Defined in
 
-[Country.ts:209](https://github.com/totalpave/country/blob/21d1403/src/Country.ts#L209)
+[Country.ts:209](https://github.com/totalpave/country/blob/17d287f/src/Country.ts#L209)
 
 ___
 
@@ -2325,7 +2325,7 @@ ___
 
 #### Defined in
 
-[Country.ts:210](https://github.com/totalpave/country/blob/21d1403/src/Country.ts#L210)
+[Country.ts:210](https://github.com/totalpave/country/blob/17d287f/src/Country.ts#L210)
 
 ___
 
@@ -2335,7 +2335,7 @@ ___
 
 #### Defined in
 
-[Country.ts:211](https://github.com/totalpave/country/blob/21d1403/src/Country.ts#L211)
+[Country.ts:211](https://github.com/totalpave/country/blob/17d287f/src/Country.ts#L211)
 
 ___
 
@@ -2345,7 +2345,7 @@ ___
 
 #### Defined in
 
-[Country.ts:212](https://github.com/totalpave/country/blob/21d1403/src/Country.ts#L212)
+[Country.ts:212](https://github.com/totalpave/country/blob/17d287f/src/Country.ts#L212)
 
 ___
 
@@ -2355,7 +2355,7 @@ ___
 
 #### Defined in
 
-[Country.ts:213](https://github.com/totalpave/country/blob/21d1403/src/Country.ts#L213)
+[Country.ts:213](https://github.com/totalpave/country/blob/17d287f/src/Country.ts#L213)
 
 ___
 
@@ -2365,7 +2365,7 @@ ___
 
 #### Defined in
 
-[Country.ts:214](https://github.com/totalpave/country/blob/21d1403/src/Country.ts#L214)
+[Country.ts:214](https://github.com/totalpave/country/blob/17d287f/src/Country.ts#L214)
 
 ___
 
@@ -2375,7 +2375,7 @@ ___
 
 #### Defined in
 
-[Country.ts:215](https://github.com/totalpave/country/blob/21d1403/src/Country.ts#L215)
+[Country.ts:215](https://github.com/totalpave/country/blob/17d287f/src/Country.ts#L215)
 
 ___
 
@@ -2385,7 +2385,7 @@ ___
 
 #### Defined in
 
-[Country.ts:216](https://github.com/totalpave/country/blob/21d1403/src/Country.ts#L216)
+[Country.ts:216](https://github.com/totalpave/country/blob/17d287f/src/Country.ts#L216)
 
 ___
 
@@ -2395,7 +2395,7 @@ ___
 
 #### Defined in
 
-[Country.ts:217](https://github.com/totalpave/country/blob/21d1403/src/Country.ts#L217)
+[Country.ts:217](https://github.com/totalpave/country/blob/17d287f/src/Country.ts#L217)
 
 ___
 
@@ -2405,7 +2405,7 @@ ___
 
 #### Defined in
 
-[Country.ts:218](https://github.com/totalpave/country/blob/21d1403/src/Country.ts#L218)
+[Country.ts:218](https://github.com/totalpave/country/blob/17d287f/src/Country.ts#L218)
 
 ___
 
@@ -2415,7 +2415,7 @@ ___
 
 #### Defined in
 
-[Country.ts:219](https://github.com/totalpave/country/blob/21d1403/src/Country.ts#L219)
+[Country.ts:219](https://github.com/totalpave/country/blob/17d287f/src/Country.ts#L219)
 
 ___
 
@@ -2425,7 +2425,7 @@ ___
 
 #### Defined in
 
-[Country.ts:220](https://github.com/totalpave/country/blob/21d1403/src/Country.ts#L220)
+[Country.ts:220](https://github.com/totalpave/country/blob/17d287f/src/Country.ts#L220)
 
 ___
 
@@ -2435,7 +2435,7 @@ ___
 
 #### Defined in
 
-[Country.ts:221](https://github.com/totalpave/country/blob/21d1403/src/Country.ts#L221)
+[Country.ts:221](https://github.com/totalpave/country/blob/17d287f/src/Country.ts#L221)
 
 ___
 
@@ -2445,7 +2445,7 @@ ___
 
 #### Defined in
 
-[Country.ts:222](https://github.com/totalpave/country/blob/21d1403/src/Country.ts#L222)
+[Country.ts:222](https://github.com/totalpave/country/blob/17d287f/src/Country.ts#L222)
 
 ___
 
@@ -2455,7 +2455,7 @@ ___
 
 #### Defined in
 
-[Country.ts:223](https://github.com/totalpave/country/blob/21d1403/src/Country.ts#L223)
+[Country.ts:223](https://github.com/totalpave/country/blob/17d287f/src/Country.ts#L223)
 
 ___
 
@@ -2465,7 +2465,7 @@ ___
 
 #### Defined in
 
-[Country.ts:225](https://github.com/totalpave/country/blob/21d1403/src/Country.ts#L225)
+[Country.ts:225](https://github.com/totalpave/country/blob/17d287f/src/Country.ts#L225)
 
 ___
 
@@ -2475,7 +2475,7 @@ ___
 
 #### Defined in
 
-[Country.ts:226](https://github.com/totalpave/country/blob/21d1403/src/Country.ts#L226)
+[Country.ts:226](https://github.com/totalpave/country/blob/17d287f/src/Country.ts#L226)
 
 ___
 
@@ -2485,7 +2485,7 @@ ___
 
 #### Defined in
 
-[Country.ts:227](https://github.com/totalpave/country/blob/21d1403/src/Country.ts#L227)
+[Country.ts:227](https://github.com/totalpave/country/blob/17d287f/src/Country.ts#L227)
 
 ___
 
@@ -2495,7 +2495,7 @@ ___
 
 #### Defined in
 
-[Country.ts:228](https://github.com/totalpave/country/blob/21d1403/src/Country.ts#L228)
+[Country.ts:228](https://github.com/totalpave/country/blob/17d287f/src/Country.ts#L228)
 
 ___
 
@@ -2505,7 +2505,7 @@ ___
 
 #### Defined in
 
-[Country.ts:229](https://github.com/totalpave/country/blob/21d1403/src/Country.ts#L229)
+[Country.ts:229](https://github.com/totalpave/country/blob/17d287f/src/Country.ts#L229)
 
 ___
 
@@ -2515,7 +2515,7 @@ ___
 
 #### Defined in
 
-[Country.ts:230](https://github.com/totalpave/country/blob/21d1403/src/Country.ts#L230)
+[Country.ts:230](https://github.com/totalpave/country/blob/17d287f/src/Country.ts#L230)
 
 ___
 
@@ -2525,7 +2525,7 @@ ___
 
 #### Defined in
 
-[Country.ts:224](https://github.com/totalpave/country/blob/21d1403/src/Country.ts#L224)
+[Country.ts:224](https://github.com/totalpave/country/blob/17d287f/src/Country.ts#L224)
 
 ___
 
@@ -2535,7 +2535,7 @@ ___
 
 #### Defined in
 
-[Country.ts:231](https://github.com/totalpave/country/blob/21d1403/src/Country.ts#L231)
+[Country.ts:231](https://github.com/totalpave/country/blob/17d287f/src/Country.ts#L231)
 
 ___
 
@@ -2545,7 +2545,7 @@ ___
 
 #### Defined in
 
-[Country.ts:232](https://github.com/totalpave/country/blob/21d1403/src/Country.ts#L232)
+[Country.ts:232](https://github.com/totalpave/country/blob/17d287f/src/Country.ts#L232)
 
 ___
 
@@ -2555,7 +2555,7 @@ ___
 
 #### Defined in
 
-[Country.ts:233](https://github.com/totalpave/country/blob/21d1403/src/Country.ts#L233)
+[Country.ts:233](https://github.com/totalpave/country/blob/17d287f/src/Country.ts#L233)
 
 ___
 
@@ -2565,7 +2565,7 @@ ___
 
 #### Defined in
 
-[Country.ts:234](https://github.com/totalpave/country/blob/21d1403/src/Country.ts#L234)
+[Country.ts:234](https://github.com/totalpave/country/blob/17d287f/src/Country.ts#L234)
 
 ___
 
@@ -2575,7 +2575,7 @@ ___
 
 #### Defined in
 
-[Country.ts:235](https://github.com/totalpave/country/blob/21d1403/src/Country.ts#L235)
+[Country.ts:235](https://github.com/totalpave/country/blob/17d287f/src/Country.ts#L235)
 
 ___
 
@@ -2585,7 +2585,7 @@ ___
 
 #### Defined in
 
-[Country.ts:236](https://github.com/totalpave/country/blob/21d1403/src/Country.ts#L236)
+[Country.ts:236](https://github.com/totalpave/country/blob/17d287f/src/Country.ts#L236)
 
 ___
 
@@ -2595,7 +2595,7 @@ ___
 
 #### Defined in
 
-[Country.ts:237](https://github.com/totalpave/country/blob/21d1403/src/Country.ts#L237)
+[Country.ts:237](https://github.com/totalpave/country/blob/17d287f/src/Country.ts#L237)
 
 ___
 
@@ -2605,7 +2605,7 @@ ___
 
 #### Defined in
 
-[Country.ts:238](https://github.com/totalpave/country/blob/21d1403/src/Country.ts#L238)
+[Country.ts:238](https://github.com/totalpave/country/blob/17d287f/src/Country.ts#L238)
 
 ___
 
@@ -2615,7 +2615,7 @@ ___
 
 #### Defined in
 
-[Country.ts:239](https://github.com/totalpave/country/blob/21d1403/src/Country.ts#L239)
+[Country.ts:239](https://github.com/totalpave/country/blob/17d287f/src/Country.ts#L239)
 
 ___
 
@@ -2625,4 +2625,4 @@ ___
 
 #### Defined in
 
-[Country.ts:240](https://github.com/totalpave/country/blob/21d1403/src/Country.ts#L240)
+[Country.ts:240](https://github.com/totalpave/country/blob/17d287f/src/Country.ts#L240)

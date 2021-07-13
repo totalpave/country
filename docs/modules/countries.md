@@ -1,4 +1,4 @@
-[@totalpave/country - v1.0.3](../README.md) / [Exports](../modules.md) / countries
+[@totalpave/country - v1.1.1](../README.md) / [Exports](../modules.md) / countries
 
 # Module: countries
 
@@ -16,4 +16,4 @@
 
 #### Defined in
 
-[countries.ts:4](https://github.com/totalpave/country/blob/21d1403/src/countries.ts#L4)
+[countries.ts:4](https://github.com/totalpave/country/blob/17d287f/src/countries.ts#L4)
