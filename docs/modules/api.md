@@ -1,4 +1,4 @@
-[@totalpave/country - v1.1.1](../README.md) / [Exports](../modules.md) / api
+[@totalpave/country - v1.1.2](../README.md) / [Exports](../modules.md) / api
 
 # Module: api
 
