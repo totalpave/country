@@ -1,4 +1,4 @@
-[@totalpave/country - v1.1.4](../README.md) / [Exports](../modules.md) / ICountry
+[@totalpave/country - v1.1.5](../README.md) / [Exports](../modules.md) / ICountry
 
 # Interface: ICountry
 
@@ -17,7 +17,7 @@
 
 #### Defined in
 
-[ICountry.ts:5](https://github.com/totalpave/country/blob/a1467dd/src/ICountry.ts#L5)
+[ICountry.ts:5](https://github.com/totalpave/country/blob/2648cfa/src/ICountry.ts#L5)
 
 ___
 
@@ -27,4 +27,4 @@ ___
 
 #### Defined in
 
-[ICountry.ts:4](https://github.com/totalpave/country/blob/a1467dd/src/ICountry.ts#L4)
+[ICountry.ts:4](https://github.com/totalpave/country/blob/2648cfa/src/ICountry.ts#L4)

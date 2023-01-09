@@ -1,6 +1,6 @@
-[@totalpave/country - v1.1.4](README.md) / Exports
+[@totalpave/country - v1.1.5](README.md) / Exports
 
-# @totalpave/country - v1.1.4
+# @totalpave/country - v1.1.5
 
 ## Table of contents
 
@@ -34,4 +34,4 @@ Renames and re-exports [countries](modules.md#countries)
 
 #### Defined in
 
-[countries.ts:4](https://github.com/totalpave/country/blob/a1467dd/src/countries.ts#L4)
+[countries.ts:4](https://github.com/totalpave/country/blob/2648cfa/src/countries.ts#L4)

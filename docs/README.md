@@ -1,1 +1,1 @@
-@totalpave/country - v1.1.4 / [Exports](modules.md)
+@totalpave/country - v1.1.5 / [Exports](modules.md)
