@@ -1,7 +1,7 @@
 import { ICountry } from "./ICountry";
 import {Country} from './Country';
 
-export let countries: Array<ICountry> = [
+export let countries: ICountry[] = [
     {
         name: "Afghanistan",
         code: Country.AFGHANISTAN
