@@ -1,4 +1,5 @@
 
+/** @deprecated Use Country enum from @totalpave/interfaces */
 export enum Country {
     AFGHANISTAN                 = 'AF',
     ALBANIA                     = 'AL',
